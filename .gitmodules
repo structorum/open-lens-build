@@ -1,0 +1,3 @@
+[submodule "vendor/open-lens"]
+	path = vendor/open-lens
+	url = https://github.com/structorum/open-lens
